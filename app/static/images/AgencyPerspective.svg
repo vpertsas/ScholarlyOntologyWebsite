@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="123 77 310 242" width="310" height="242">
+  <defs>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-30 15:58:20 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 249.575 205 L 312.925 205 C 320.4184 205 326.5 211.048 326.5 218.5 C 326.5 225.952 320.4184 232 312.925 232 L 249.575 232 C 242.0816 232 236 225.952 236 218.5 C 236 211.048 242.0816 205 249.575 205 Z" fill="white"/>
+        <path d="M 249.575 205 L 312.925 205 C 320.4184 205 326.5 211.048 326.5 218.5 C 326.5 225.952 320.4184 232 312.925 232 L 249.575 232 C 242.0816 232 236 225.952 236 218.5 C 236 211.048 242.0816 205 249.575 205 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(250.05 211.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="17.864063" y="11">Goal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 249.575 78.489995 L 312.925 78.489995 C 320.4184 78.489995 326.5 84.53799 326.5 91.99 C 326.5 99.442 320.4184 105.49 312.925 105.49 L 249.575 105.49 C 242.0816 105.49 236 99.442 236 91.99 C 236 84.53799 242.0816 78.489995 249.575 78.489995 Z" fill="white"/>
+        <path d="M 249.575 78.489995 L 312.925 78.489995 C 320.4184 78.489995 326.5 84.53799 326.5 91.99 C 326.5 99.442 320.4184 105.49 312.925 105.49 L 249.575 105.49 C 242.0816 105.49 236 99.442 236 91.99 C 236 84.53799 242.0816 78.489995 249.575 78.489995 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(250.05 84.79371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="17.196094" y="11">Actor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 137.575 291 L 200.925 291 C 208.4184 291 214.5 297.048 214.5 304.5 C 214.5 311.952 208.4184 318 200.925 318 L 137.575 318 C 130.0816 318 124 311.952 124 304.5 C 124 297.048 130.0816 291 137.575 291 Z" fill="white"/>
+        <path d="M 137.575 291 L 200.925 291 C 208.4184 291 214.5 297.048 214.5 304.5 C 214.5 311.952 208.4184 318 200.925 318 L 137.575 318 C 130.0816 318 124 311.952 124 304.5 C 124 297.048 130.0816 291 137.575 291 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(138.05 297.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="11.187305" y="11">Method</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 363.20625 291 L 420.16875 291 C 426.9066 291 432.375 297.048 432.375 304.5 C 432.375 311.952 426.9066 318 420.16875 318 L 363.20625 318 C 356.4684 318 351 311.952 351 304.5 C 351 297.048 356.4684 291 363.20625 291 Z" fill="white"/>
+        <path d="M 363.20625 291 L 420.16875 291 C 426.9066 291 432.375 297.048 432.375 304.5 C 432.375 311.952 426.9066 318 420.16875 318 L 363.20625 318 C 356.4684 318 351 311.952 351 304.5 C 351 297.048 356.4684 291 363.20625 291 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(364.1375 297.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="8.548047" y="11">Activity</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="281.25" y1="205" x2="281.25" y2="115.39" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <rect x="252.75" y="130.5981" width="57" height="25" fill="#fafafa"/>
+        <text transform="translate(257.75 135.90181)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15917969" y="11">isGoalOf</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="305.74285" y1="232" x2="361.3989" y2="284.22566" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8">
+        <rect x="292.6647" y="245.70088" width="82" height="25" fill="#fafafa"/>
+        <text transform="translate(297.6647 251.0046)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32226562" y="11">isObjectiveOf</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <line x1="257.86267" y1="232" x2="202.3959" y2="284.2142" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="183.34842" y="246.81285" width="91" height="25" fill="#fafafa"/>
+        <text transform="translate(188.34842 252.11656)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".48046875" y="11">isAddressedBy</tspan>
+        </text>
+      </g>
+      <g id="Line_12">
+        <path d="M 242.543 206.95206 C 242.543 206.95206 238.90256 177.3279 226 175.5 C 213.09744 173.6721 194.16695 188.31788 197 200.5 C 198.87634 208.56827 215.37452 213.8449 226.30325 216.48858" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_13">
+        <rect x="185.53696" y="163.65142" width="65" height="25" fill="#fafafa"/>
+        <text transform="translate(190.53696 168.95513)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".16015625" y="11">comprises</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <path d="M 319.957 206.95206 C 319.957 206.95206 326.38918 181.69012 340 176.5 C 353.61082 171.30988 372.19605 178.37442 368 188.63217 C 365.1275 195.65432 346.12502 204.3447 334.42293 209.12845" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="327.56653" y="166.06133" width="73" height="25" fill="#fafafa"/>
+        <text transform="translate(332.56653 171.36504)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4746094" y="11">dependsOn</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-341 -693 541 399" width="541" height="399">
+  <defs>
+    <font-face font-family="Arial" font-size="14" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-30 16:08:43 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_7">
+        <path d="M 20.5 -444.5 L -47.5 -542 L -115.5 -444.5 Z" fill="white"/>
+        <path d="M 20.5 -444.5 L -47.5 -542 L -115.5 -444.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-76.5 -491.666)" fill="black">
+          <tspan font-family="Arial" font-size="14" font-weight="700" fill="black" x="3.713867" y="13">Activity</tspan>
+          <tspan font-family="Arial" font-size="14" font-weight="700" fill="black" x="9.288574" y="29.458008">Types</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 199 -553.5 L 154.5 -645.5 L 110 -553.5 Z" fill="#ccc"/>
+        <path d="M 199 -553.5 L 154.5 -645.5 L 110 -553.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(137.25 -605.7777)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.2529297" y="11">CCC-</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="1.913086" y="25.392578">IULA-</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.25" y="39.785156">UPF</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <path d="M -110 -650.5 L -162.5 -692 L -215 -650.5 Z" fill="#ccc"/>
+        <path d="M -110 -650.5 L -162.5 -692 L -215 -650.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-183.75 -673.5426)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="4.580078" y="11">AHDS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <path d="M -235 -422 L -287.5 -483.5 L -340 -422 Z" fill="#ccc"/>
+        <path d="M -235 -422 L -287.5 -483.5 L -340 -422 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-308.75 -461.43516)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="11.584961" y="11">ICT</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="3.2441406" y="25.392578">Oxford</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 88.5 -294.5 L 20.5 -336 L -47.5 -294.5 Z" fill="#ccc"/>
+        <path d="M 88.5 -294.5 L 20.5 -336 L -47.5 -294.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-8.5 -317.54258)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="4.3291016" y="11">TaDiRAH</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M -2.5 -665.75 L 66.5 -665.75 C 72.02285 -665.75 76.5 -661.27285 76.5 -655.75 L 76.5 -647.5 C 76.5 -641.97715 72.02285 -637.5 66.5 -637.5 L -2.5 -637.5 C -8.0228475 -637.5 -12.5 -641.97715 -12.5 -647.5 L -12.5 -655.75 C -12.5 -661.27285 -8.0228475 -665.75 -2.5 -665.75 Z" fill="white"/>
+        <path d="M -2.5 -665.75 L 66.5 -665.75 C 72.02285 -665.75 76.5 -661.27285 76.5 -655.75 L 76.5 -647.5 C 76.5 -641.97715 72.02285 -637.5 66.5 -637.5 L -2.5 -637.5 C -8.0228475 -637.5 -12.5 -641.97715 -12.5 -647.5 L -12.5 -655.75 C -12.5 -661.27285 -8.0228475 -665.75 -2.5 -665.75 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-7.5 -658.8213)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="28.493164" y="11">Tool</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <path d="M -238.5 -590.5 L -169.5 -590.5 C -163.97715 -590.5 -159.5 -586.02285 -159.5 -580.5 L -159.5 -572.25 C -159.5 -566.72715 -163.97715 -562.25 -169.5 -562.25 L -238.5 -562.25 C -244.02285 -562.25 -248.5 -566.72715 -248.5 -572.25 L -248.5 -580.5 C -248.5 -586.02285 -244.02285 -590.5 -238.5 -590.5 Z" fill="white"/>
+        <path d="M -238.5 -590.5 L -169.5 -590.5 C -163.97715 -590.5 -159.5 -586.02285 -159.5 -580.5 L -159.5 -572.25 C -159.5 -566.72715 -163.97715 -562.25 -169.5 -562.25 L -238.5 -562.25 C -244.02285 -562.25 -248.5 -566.72715 -248.5 -572.25 L -248.5 -580.5 C -248.5 -586.02285 -244.02285 -590.5 -238.5 -590.5 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-243.5 -583.5713)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="25.496094" y="11">Actor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M -169.5 -349 L -90 -349 C -84.47715 -349 -80 -344.52285 -80 -339 L -80 -330.75 C -80 -325.22715 -84.47715 -320.75 -90 -320.75 L -169.5 -320.75 C -175.02285 -320.75 -179.5 -325.22715 -179.5 -330.75 L -179.5 -339 C -179.5 -344.52285 -175.02285 -349 -169.5 -349 Z" fill="white"/>
+        <path d="M -169.5 -349 L -90 -349 C -84.47715 -349 -80 -344.52285 -80 -339 L -80 -330.75 C -80 -325.22715 -84.47715 -320.75 -90 -320.75 L -169.5 -320.75 C -175.02285 -320.75 -179.5 -325.22715 -179.5 -330.75 L -179.5 -339 C -179.5 -344.52285 -175.02285 -349 -169.5 -349 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-174.5 -342.0713)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="25.748047" y="11">Activity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 82.5 -424.5 L 167.5 -424.5 C 173.02285 -424.5 177.5 -420.02285 177.5 -414.5 L 177.5 -406.25 C 177.5 -400.72715 173.02285 -396.25 167.5 -396.25 L 82.5 -396.25 C 76.97715 -396.25 72.5 -400.72715 72.5 -406.25 L 72.5 -414.5 C 72.5 -420.02285 76.97715 -424.5 82.5 -424.5 Z" fill="white"/>
+        <path d="M 82.5 -424.5 L 167.5 -424.5 C 173.02285 -424.5 177.5 -420.02285 177.5 -414.5 L 177.5 -406.25 C 177.5 -400.72715 173.02285 -396.25 167.5 -396.25 L 82.5 -396.25 C 76.97715 -396.25 72.5 -400.72715 72.5 -406.25 L 72.5 -414.5 C 72.5 -420.02285 76.97715 -424.5 82.5 -424.5 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(77.5 -417.5713)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="27.487305" y="11">Method</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="7" y1="-464.5" x2="94.20554" y2="-424.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <line x1="-72.30949" y1="-506.42757" x2="-177.40677" y2="-562.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="-199.65722" y1="-562.25" x2="-134.09278" y2="-349" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_28">
+        <line x1="-122.41436" y1="-349" x2="-72.81768" y2="-444.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_29">
+        <line x1="-85.57112" y1="-347.96825" x2="79.2093" y2="-396.80406" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="-25.5" y1="-512.5" x2="26.162174" y2="-637.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="-7.710515" y1="-638.9631" x2="-164.28948" y2="-589.0369" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="37.445078" y1="-637.5" x2="119.55492" y2="-424.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="-149.0941" y1="-650.5" x2="-63.85001" y2="-518.557" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_34">
+        <line x1="124.6575" y1="-583.80314" x2="-22.625186" y2="-506.3339" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_35">
+        <line x1="-28.876404" y1="-444.5" x2="14.071754" y2="-332.07688" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <line x1="-86.03531" y1="-486.74717" x2="-264.5553" y2="-456.6219" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

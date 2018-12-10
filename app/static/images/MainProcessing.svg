@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="21 7 452 730" width="452" height="730">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="21" y="7">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="10" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Arial" font-size="14" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-31 09:32:30 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3_shadow" filter="url(#Shadow)">
+        <rect x="292" y="367.5" width="81" height="45" fill="white"/>
+        <rect x="292" y="367.5" width="81" height="45" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_42">
+        <path d="M 228 538.5 L 284 538.5 C 288.41828 538.5 292 542.0817 292 546.5 L 292 584.5 C 292 588.9183 288.41828 592.5 284 592.5 L 228 592.5 C 223.58172 592.5 220 588.9183 220 584.5 L 220 546.5 C 220 542.0817 223.58172 538.5 228 538.5 Z" fill="white"/>
+        <path d="M 228 538.5 L 284 538.5 C 288.41828 538.5 292 542.0817 292 546.5 L 292 584.5 C 292 588.9183 288.41828 592.5 284 592.5 L 228 592.5 C 223.58172 592.5 220 588.9183 220 584.5 L 220 546.5 C 220 542.0817 223.58172 538.5 228 538.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(225 551.1074)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="6.6572266" y="11">Syntactic</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="8.658203" y="25.392578">Analysis</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <path d="M 129 583.5 L 185 583.5 C 189.41828 583.5 193 587.0817 193 591.5 L 193 629.5 C 193 633.9183 189.41828 637.5 185 637.5 L 129 637.5 C 124.58172 637.5 121 633.9183 121 629.5 L 121 591.5 C 121 587.0817 124.58172 583.5 129 583.5 Z" fill="white"/>
+        <path d="M 129 583.5 L 185 583.5 C 189.41828 583.5 193 587.0817 193 591.5 L 193 629.5 C 193 633.9183 189.41828 637.5 185 637.5 L 129 637.5 C 124.58172 637.5 121 633.9183 121 629.5 L 121 591.5 C 121 587.0817 124.58172 583.5 129 583.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(126 599.17285)" fill="black">
+          <tspan font-family="Arial" font-size="10" font-weight="400" fill="black" x=".70458984" y="9">Text Cleaning </tspan>
+          <tspan font-family="Arial" font-size="10" font-weight="400" fill="black" x=".14550781" y="20.327148">Segmentation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <path d="M 381 421.5 L 437 421.5 C 441.4183 421.5 445 425.0817 445 429.5 L 445 467.5 C 445 471.9183 441.4183 475.5 437 475.5 L 381 475.5 C 376.5817 475.5 373 471.9183 373 467.5 L 373 429.5 C 373 425.0817 376.5817 421.5 381 421.5 Z" fill="white"/>
+        <path d="M 381 421.5 L 437 421.5 C 441.4183 421.5 445 425.0817 445 429.5 L 445 467.5 C 445 471.9183 441.4183 475.5 437 475.5 L 381 475.5 C 376.5817 475.5 373 471.9183 373 467.5 L 373 429.5 C 373 425.0817 376.5817 421.5 381 421.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(378 426.91113)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.9833984" y="11">Metadata</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="4.3222656" y="25.392578">Extraction </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.3154297" y="39.785156">&amp; Mapping</tspan>
+        </text>
+      </g>
+      <g id="Line_39">
+        <line x1="409" y1="421.5" x2="409" y2="323.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_38">
+        <path d="M 120 421.5 L 194 421.5 C 198.41828 421.5 202 425.0817 202 429.5 L 202 467.5 C 202 471.9183 198.41828 475.5 194 475.5 L 120 475.5 C 115.58172 475.5 112 471.9183 112 467.5 L 112 429.5 C 112 425.0817 115.58172 421.5 120 421.5 Z" fill="white"/>
+        <path d="M 120 421.5 L 194 421.5 C 198.41828 421.5 202 425.0817 202 429.5 L 202 467.5 C 202 471.9183 198.41828 475.5 194 475.5 L 120 475.5 C 115.58172 475.5 112 471.9183 112 467.5 L 112 429.5 C 112 425.0817 115.58172 421.5 120 421.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(117 426.91113)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="20.658203" y="11">Named</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="24.99414" y="25.392578">Entity</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="8.3125" y="39.785156">Recognition</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="157" y1="583" x2="157" y2="485.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <line x1="85" y1="448.5" x2="101.6" y2="448.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 219 421.5 L 293 421.5 C 297.41828 421.5 301 425.0817 301 429.5 L 301 467.5 C 301 471.9183 297.41828 475.5 293 475.5 L 219 475.5 C 214.58172 475.5 211 471.9183 211 467.5 L 211 429.5 C 211 425.0817 214.58172 421.5 219 421.5 Z" fill="white"/>
+        <path d="M 219 421.5 L 293 421.5 C 297.41828 421.5 301 425.0817 301 429.5 L 301 467.5 C 301 471.9183 297.41828 475.5 293 475.5 L 219 475.5 C 214.58172 475.5 211 471.9183 211 467.5 L 211 429.5 C 211 425.0817 214.58172 421.5 219 421.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(216 426.91113)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="7.65332" y="11">Non-Named</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="20.324219" y="25.392578">Entities </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="13.322266" y="39.785156">Extraction</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <path d="M 332.5 412.5 L 332.5 448.5 L 311.4 448.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="157" y1="565" x2="209.60013" y2="565.26566" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="310.48776" y1="69.23308" x2="335.0486" y2="63.695846" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="256" y1="538" x2="256" y2="485.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <path d="M 246 149.45924 L 302 149.45924 C 306.41828 149.45924 310 153.04096 310 157.45924 L 310 195.45924 C 310 199.87752 306.41828 203.45924 302 203.45924 L 246 203.45924 C 241.58172 203.45924 238 199.87752 238 195.45924 L 238 157.45924 C 238 153.04096 241.58172 149.45924 246 149.45924 Z" fill="white"/>
+        <path d="M 246 149.45924 L 302 149.45924 C 306.41828 149.45924 310 153.04096 310 157.45924 L 310 195.45924 C 310 199.87752 306.41828 203.45924 302 203.45924 L 246 203.45924 C 241.58172 203.45924 238 199.87752 238 195.45924 L 238 157.45924 C 238 153.04096 241.58172 149.45924 246 149.45924 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(243 162.06666)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="20.666992" y="11">URI </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="8.321289" y="25.392578">Creation</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <line x1="274" y1="148.95924" x2="274" y2="114.85924" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="142" y="536.53574" width="30" height="39" fill="#fafafa"/>
+        <text transform="translate(147 541.64316)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".33203125" y="11">raw</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32910156" y="25.392578">text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 147 259.5 L 419 259.5 C 423.4183 259.5 427 263.08172 427 267.5 L 427 305.5 C 427 309.91828 423.4183 313.5 419 313.5 L 147 313.5 C 142.58172 313.5 139 309.91828 139 305.5 L 139 267.5 C 139 263.08172 142.58172 259.5 147 259.5 Z" fill="white"/>
+        <path d="M 147 259.5 L 419 259.5 C 423.4183 259.5 427 263.08172 427 267.5 L 427 305.5 C 427 309.91828 423.4183 313.5 419 313.5 L 147 313.5 C 142.58172 313.5 139 309.91828 139 305.5 L 139 267.5 C 139 263.08172 142.58172 259.5 147 259.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(144 279.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="88.6416" y="11">Relation Extraction</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <line x1="157" y1="421" x2="157" y2="323.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_25">
+        <line x1="275.45753" y1="259.5" x2="274.6564" y2="213.85764" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="224" y="489.81814" width="64" height="39" fill="#fafafa"/>
+        <text transform="translate(229 494.92557)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3076172" y="11">annotated</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="17.329102" y="25.392578">text</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <rect x="127" y="338.5376" width="60" height="39" fill="#fafafa"/>
+        <text transform="translate(132 343.64503)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3203125" y="11">extracted</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.989258" y="25.392578">entities</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <line x1="332.5" y1="367.5" x2="332.6037" y2="323.39997" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <rect x="239.5498" y="216.77085" width="71" height="39" fill="#fafafa"/>
+        <text transform="translate(244.5498 221.87827)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4824219" y="11">interrelated</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="11.489258" y="25.392578">entities</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="248.5" y="119.54506" width="51" height="25" fill="#fafafa"/>
+        <text transform="translate(253.5 124.84877)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".17089844" y="11">RDF(S)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 129 673.5 L 185 673.5 C 189.41828 673.5 193 677.0817 193 681.5 L 193 719.5 C 193 723.9183 189.41828 727.5 185 727.5 L 129 727.5 C 124.58172 727.5 121 723.9183 121 719.5 L 121 681.5 C 121 677.0817 124.58172 673.5 129 673.5 Z" fill="white"/>
+        <path d="M 129 673.5 L 185 673.5 C 189.41828 673.5 193 677.0817 193 681.5 L 193 719.5 C 193 723.9183 189.41828 727.5 185 727.5 L 129 727.5 C 124.58172 727.5 121 723.9183 121 719.5 L 121 681.5 C 121 677.0817 124.58172 673.5 129 673.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(126 686.1074)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="14.330078" y="11">Article </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.321289" y="25.392578">Harvesting</tspan>
+        </text>
+      </g>
+      <g id="Line_18">
+        <path d="M 301.7492 657.4189 L 157 657.4189 L 157 647.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 292 673.5 L 292 657.4189 L 409 657.4189 L 409 485.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="193" y1="700.5" x2="246.10023" y2="700.8619" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_15">
+        <rect x="179.5" y="644.5" width="62" height="25" fill="#fafafa"/>
+        <text transform="translate(184.5 649.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3330078" y="11">xml / html</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 85 437.4786 C 85 432.3632 84.1999 431.7303 78.35539 426.6678 L 78.29365 426.6154 C 72.41827 421.5 72.35716 421.5 66.32743 421.5 C 58.29871 421.5 22 421.5 22 421.5 L 22 475.5 L 85 475.5 L 85 437.4786 Z" fill="white"/>
+        <path d="M 85 437.4786 C 85 432.3632 84.1999 431.7303 78.35539 426.6678 L 78.29365 426.6154 C 72.41827 421.5 72.35716 421.5 66.32743 421.5 C 58.29871 421.5 22 421.5 22 421.5 L 22 475.5 L 85 475.5 L 85 437.4786 Z M 85 437.2151 C 85 432.3632 84.93826 432.3632 72.35716 432.3632 L 72.35716 432.3632 C 72.35716 421.5529 72.35716 421.5 66.69661 421.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(27 434.1074)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="6.378906" y="11">Trained </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="1.8291016" y="25.392578">Classifier</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="256" y1="421" x2="256" y2="323.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <line x1="332.5" y1="448.5" x2="363.1" y2="448.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="379" y="337.8244" width="60" height="39" fill="#fafafa"/>
+        <text transform="translate(384 342.9318)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3203125" y="11">extracted</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.989258" y="25.392578">entities</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="225" y="340.5" width="60" height="39" fill="#fafafa"/>
+        <text transform="translate(230 345.60742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3203125" y="11">extracted</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.989258" y="25.392578">entities</tspan>
+        </text>
+      </g>
+      <g id="Group_6">
+        <g id="Graphic_9">
+          <path d="M 328 697.7745 C 328 692.56435 327.1872 691.91975 321.24992 686.7635 L 321.1872 686.71015 C 315.21856 681.5 315.15648 681.5 309.03104 681.5 C 300.87488 681.5 264 681.5 264 681.5 L 264 736.5 L 328 736.5 L 328 697.7745 Z" fill="white"/>
+          <path d="M 328 697.7745 C 328 692.56435 327.1872 691.91975 321.24992 686.7635 L 321.1872 686.71015 C 315.21856 681.5 315.15648 681.5 309.03104 681.5 C 300.87488 681.5 264 681.5 264 681.5 L 264 736.5 L 328 736.5 L 328 697.7745 Z M 328 697.5061 C 328 692.56435 327.93728 692.56435 315.15648 692.56435 L 315.15648 692.56435 C 315.15648 681.5539 315.15648 681.5 309.40608 681.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_8">
+          <path d="M 324 693.7745 C 324 688.56435 323.1872 687.91975 317.24992 682.7635 L 317.1872 682.71015 C 311.21856 677.5 311.15648 677.5 305.03104 677.5 C 296.87488 677.5 260 677.5 260 677.5 L 260 732.5 L 324 732.5 L 324 693.7745 Z" fill="white"/>
+          <path d="M 324 693.7745 C 324 688.56435 323.1872 687.91975 317.24992 682.7635 L 317.1872 682.71015 C 311.21856 677.5 311.15648 677.5 305.03104 677.5 C 296.87488 677.5 260 677.5 260 677.5 L 260 732.5 L 324 732.5 L 324 693.7745 Z M 324 693.5061 C 324 688.56435 323.93728 688.56435 311.15648 688.56435 L 311.15648 688.56435 C 311.15648 677.5539 311.15648 677.5 305.40608 677.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_7">
+          <path d="M 320 689.7745 C 320 684.56435 319.1872 683.91975 313.24992 678.7635 L 313.1872 678.71015 C 307.21856 673.5 307.15648 673.5 301.03104 673.5 C 292.87488 673.5 256 673.5 256 673.5 L 256 728.5 L 320 728.5 L 320 689.7745 Z" fill="white"/>
+          <path d="M 320 689.7745 C 320 684.56435 319.1872 683.91975 313.24992 678.7635 L 313.1872 678.71015 C 307.21856 673.5 307.15648 673.5 301.03104 673.5 C 292.87488 673.5 256 673.5 256 673.5 L 256 728.5 L 320 728.5 L 320 689.7745 Z M 320 689.5061 C 320 684.56435 319.93728 684.56435 307.15648 684.56435 L 307.15648 684.56435 C 307.15648 673.5539 307.15648 673.5 301.40608 673.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(261 679.4111)" fill="black">
+            <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="1.321289" y="11">Research </tspan>
+            <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="7.330078" y="25.392578">Articles </tspan>
+            <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="8.666016" y="39.785156">(for IE)</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 354.59995 52.35051 C 332.78125 48 341.482 11.37585 376.2877 17.625 C 379.5169 5.44341 419.99125 7.42062 419.72665 17.625 C 445.1053 4.57347 477.5377 30.59796 455.7838 43.64949 C 481.8874 49.97721 455.4544 84.07011 434.03125 78.375 C 432.31675 87.86739 394.0186 91.1892 390.6571 78.375 C 368.9707 92.05995 323.7511 71.01858 354.59995 52.35051 Z" fill="white"/>
+        <path d="M 354.59995 52.35051 C 332.78125 48 341.482 11.37585 376.2877 17.625 C 379.5169 5.44341 419.99125 7.42062 419.72665 17.625 C 445.1053 4.57347 477.5377 30.59796 455.7838 43.64949 C 481.8874 49.97721 455.4544 84.07011 434.03125 78.375 C 432.31675 87.86739 394.0186 91.1892 390.6571 78.375 C 368.9707 92.05995 323.7511 71.01858 354.59995 52.35051 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(362.25 23.312988)" fill="black">
+          <tspan font-family="Arial" font-size="14" font-weight="400" fill="black" x="7.612305" y="13">Knowledge </tspan>
+          <tspan font-family="Arial" font-size="14" font-weight="400" fill="black" x="26.294922" y="29.458008">Base</tspan>
+          <tspan font-family="Arial" font-size="14" font-weight="400" fill="black" x=".2294922" y="45.916016">(Linked Data) </tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="270.5" y="642.5" width="62" height="25" fill="#fafafa"/>
+        <text transform="translate(275.5 647.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3330078" y="11">xml / html</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="292" y="367.5" width="81" height="45" fill="white"/>
+        <rect x="292" y="367.5" width="81" height="45" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(297 375.6074)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="14.491211" y="11">Rules &amp;</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="6.821289" y="25.392578">Constrains</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 246 50.45924 L 302 50.45924 C 306.41828 50.45924 310 54.040964 310 58.45924 L 310 96.45924 C 310 100.87752 306.41828 104.45924 302 104.45924 L 246 104.45924 C 241.58172 104.45924 238 100.87752 238 96.45924 L 238 58.45924 C 238 54.040964 241.58172 50.45924 246 50.45924 Z" fill="white"/>
+        <path d="M 246 50.45924 L 302 50.45924 C 306.41828 50.45924 310 54.040964 310 58.45924 L 310 96.45924 C 310 100.87752 306.41828 104.45924 302 104.45924 L 246 104.45924 C 241.58172 104.45924 238 100.87752 238 96.45924 L 238 58.45924 C 238 54.040964 241.58172 50.45924 246 50.45924 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(243 70.26295)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="11.986328" y="11">Linking</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

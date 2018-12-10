@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/Taxonomy_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+
+{% block content %}
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/ActivityTypes.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>ACTIVITY TYPES</h2>
+                <p class="lead">Scholarly Ontology allows the indirect linking of concepts through
+                the various Type classes. Especially in the case of ActivityType the
+                hierarchically organized lexical terms serve multiple purposes: (1) they denote the
+                nature of activities; (2) they provide context for other SO relations (e.g. employs,
+                usesTool, etc.) and function as semantic bridge between various perspectives; (3)
+                they provide a retrieval index; (4) they function as a “gateway” through which other
+                taxonomic structures (along with the resources annotated by them) can be
+                imported/mapped (e.g. TaDIRAH, Oxford ICT, etc.).</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/Theory_vs_Practice.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>SEMANTIC LEVELS</h2>
+                <!-- <img src="static/images/Taxonomy_brand.svg" width="70" height="70" alt="" class="d-lg-inline"> -->
+                <p class="lead">In Scholarly Ontology (SO) the classes <em>Activity</em> and <em>Method</em>
+                capture the distinction between describing how a deliberate act was actually carried out 
+                and describing a preconceived way for
+                carrying out this type of activity. More generally, the <em>‘how’</em>
+                and <em>‘why’</em> aspects of scholarly domain, as captured by the
+                <em>Method</em>, <em>ResearchQuestion</em> and <em>Goal</em> concepts,
+                can be considered to represent a <strong><em>‘methodological level’</em></strong> concerning
+                non-factual entities that prescribe how or explain
+                why things are done. Conversely, the <em>‘what’</em> and <em>‘who’</em> aspects,
+                as captured by concepts such as: <em>Activity</em>, <em>InformationResource</em>,
+                <em>Tool</em> and <em>Actor</em>, represent factual
+                entities of the scholarly domain and thus arguably belong
+                to a <strong><em>‘factual level’</em></strong>.</p>
+            <P><em>Type</em> on the other hand, comprising the various kinds of controlled vocabularies employed
+            for classification purposes, such as <em>ActivityType, InformationResourceType,
+            MediaType, TopicKeyword</em>, can be regarded as a semantic bridge between the
+            methodological and factual levels. This indirect
+            linking of concepts through the various types generates patterns that can be exploited
+            in designing reusable access structures and rules based on the interplay of
+            intentionality and functionality properties.</p>
+            </div>
+        </div>
+    </div>
+</div>   
+{% endblock content %}

@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/SO_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+{% block content %}
+
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/NeDiMAH-Logo.png" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>NeMO</h2>
+                <p class="lead">The NeDiMAH Methods Ontology ((<a class="refLink" href="http://nedimah.dcu.gr/index.php?p=home">NeMO</a>)) is a comprehensive ontological model 
+                    of scholarly practice in the arts and
+                humanities, the development of which is undertaken through the ESF Research Network NeDiMAH.</P>
+                
+                <p>NeMO is a CIDOC CRM - compliant ontology which explicitly addresses the interplay of factors of agency (actors and
+                goals), process (activities and methods) and resources (information resources, tools, concepts) manifest in the
+                scholarly process. It builds on the results of extensive empirical studies and modelling of scholarly practices
+                performed by the Digital Curation Unit (<a class="refLink" href="http://www.dcu.gr/en/">DCU</a>) in projects DARIAH and EHRI.</p>
+                
+                <p>NeMO incorporates existing relevant taxonomies of scholarly methods and tools, such as TaDIRAH, the arts-humanities.net
+                and Oxford taxonomies of ICT methods, DHCommons, CCC-IULA-UPF and DiRT, through appropriate mappings of the concepts
+                defined therein onto a semantic backbone of NeMO concepts. It thus enables combining documentary elements on scholarly
+                practices of different perspectives and using different vocabularies.</P>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/NeMO_Architecture.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2> SCHOLARLY ONTOLOGY & NeMO</h2>
+                <p class="lead">Sharing the same layered architecture with Scholarly Ontology (SO), 
+                    <a class="refLink"  href="http://nedimah.dcu.gr/index.php?p=home">NeMO</a>
+                    constitutes an extension of SO 
+                    for the domain of Digital Humanities. The three-layered structure adopted in 
+                    NeMO and SO consists of:
+                        the <strong><em>Upper Layer</em></strong>  that contains the most general concepts and properties, acts
+                    as a frame of reference, and provides the basis for compatibility with other
+                    reference ontologies; 
+                    the <strong><em>Middle Layer</em></strong>  that contains the hierarchical structures of more specific,
+                    but still quite broad properties and concepts which are common across
+                    disciplines in the scholarly domain, and the
+                    <strong><em>Lower Layer</em></strong>  that contains the fine-grained aspects of research practices
+                    as well as various controlled vocabularies, specific to each aspect of
+                    scholarly work or scientific disciplines. </p>
+                <p>SO comprises the upper and middle layers. NeMO, on the other hand, consists of SO
+                and a lower layer containing domain-specific extensions of the middle layer
+                concepts, as well as the relevant controlled vocabularies. Likewise, scholarly work
+                ontologies for areas other than the humanities can be generated from SO by
+                developing appropriate lower layer components.</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

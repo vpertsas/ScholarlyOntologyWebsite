@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-133 34 658 237" width="658" height="237">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="-133" y="34">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <filter id="Shadow_2" filterUnits="userSpaceOnUse" x="-133" y="34">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-30 16:17:02 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_20_shadow" filter="url(#Shadow)">
+        <path d="M -1.8 172 L 237 172 L 177.3 199 L -61.5 199 Z" fill="white"/>
+        <path d="M -1.8 172 L 237 172 L 177.3 199 L -61.5 199 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_23" filter="url(#Shadow_2)">
+        <path d="M -52.4 82 L 246 82 L 171.4 109 L -127 109 Z" fill="white"/>
+        <path d="M -52.4 82 L 246 82 L 171.4 109 L -127 109 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22" filter="url(#Shadow_2)">
+        <path d="M -27.74609 127 L 241.26954 127 L 174.01563 154 L -95 154 Z" fill="white"/>
+        <path d="M -27.74609 127 L 241.26954 127 L 174.01563 154 L -95 154 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21" filter="url(#Shadow_2)">
+        <path d="M 21 235 L 237 235 L 183 262 L -33 262 Z" fill="white"/>
+        <path d="M 21 235 L 237 235 L 183 262 L -33 262 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <path d="M -1.8 172 L 237 172 L 177.3 199 L -61.5 199 Z" fill="white"/>
+        <path d="M -1.8 172 L 237 172 L 177.3 199 L -61.5 199 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(70.5 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.388672" y="11">Metadata Extraction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(88.9375 179.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".14941406" y="11">Entity Extraction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(74.9375 134.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".14160156" y="11">Relation Extraction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(-27.0625 89.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".11523438" y="11">URI Creation - Linked Data Publishing</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13"/>
+      <g id="Graphic_12">
+        <text transform="translate(273 232.10742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="11">Persons, Organisations, Topics, Content Items</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="25.392578">(Images, Tables, Bibliographic References)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(273 177.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".453125" y="11">Methods, Activities, Goals, Propositions</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(273 125.10742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="11">follows, hasPart, employs, hasObjective, </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="25.392578">resultsIn, hasParticipant, hasTopic, etc.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(273 79.10742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="11">owl:sameAs, owl:equivalentProperty, </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="25.392578">rdfs:Label, skos:altLabel</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="258.53125" y1="270.5" x2="258.53125" y2="44.89995" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523 343" width="523" height="343">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-31 10:28:49 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_19">
+        <path d="M 18.984375 270 L 234.4922 54 L 450 270 Z" fill="#f3f3f3"/>
+        <path d="M 18.984375 270 L 234.4922 54 L 450 270 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 90 198 L 234 54 L 378 198 Z" fill="#c8c8c8"/>
+        <path d="M 90 198 L 234 54 L 378 198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 162 126 L 234 54 L 306 126 Z" fill="#9c9c9c"/>
+        <path d="M 162 126 L 234 54 L 306 126 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <path d="M 18 270 L 234 54 L 450 270 L 18 270 L 18 270" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <path d="M 162 126 L 306 126 L 306 126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_14">
+        <line x1="90" y1="198" x2="378" y2="198" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="288" y1="198" x2="307.99998" y2="270" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(183.5 91.65192)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="10.942" y="12">Top Concepts</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x=".178" y="27.348083">Reasoning Frame</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(145 149.15192)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="45.698" y="12">Inter-Discipline </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x=".212" y="27.348083">Concept / Property Hierarchies</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(64.5 212.47787)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x=".016" y="12">         Discipline</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="6.55" y="27.348083">        Specific </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="11.56" y="42.696167">Extensions   </tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="184" y1="198" x2="153.99996" y2="270" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5">
+        <line x1="184" y1="198" x2="378" y2="198" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(296.5 212.47787)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="17.028" y="12">Discipline      </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x="21.894" y="27.348083">Specific </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="black" x=".216" y="42.696167">        Extensions</tspan>
+        </text>
+      </g>
+      <g id="Line_3">
+        <line x1="271" y1="234" x2="198" y2="234" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,5.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

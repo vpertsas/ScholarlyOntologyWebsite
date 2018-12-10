@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/SO_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+
+{% block content %}
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/SO_Rationale.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>SCHOLARLY ONTOLOGY</h2>
+                <img src="static/images/SO_brand.svg" alt="" width="70" height="70" class="d-lg-inline">
+                <p class="lead">Scholarly Ontology (SO) is an ontological framework for representing knowledge in the
+                    scholarly domain. It offers a
+                    flexible mechanism for modeling scholarly practices in the form of research processes that are
+                    carried out
+                    by scholars
+                    and represent their work. Modeling scholarly work with SO, allows for easy access to information,
+                    encoded
+                    in such a way
+                    that can answer questions of the form <strong><em>who</em></strong> does <strong><em>what</em></strong>,
+                    <strong><em>how</em></strong>, <strong><em>why</em></strong>, <strong><em>where</em></strong>, etc.
+                </p>
+                <a class="btn btn-outline-secondary" href="{{url_for('main.ScholarlyOntology') }}" role="button">Learn
+                    More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/ActivityTypesRational.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>ACTIVITY TYPES</h2>
+                <img src="static/images/Taxonomy_brand.svg" width="70" height="70" alt="" class="d-lg-inline">
+                <p class="lead">The <em>ActivityTypes</em> taxonomy is a vocabulary of terms that denote the type (i.e.
+                    the
+                    nature /
+                    scope) of scholarly activities. These terms are organized in a hierarchical order
+                    so each one is connected with its broader / narrower
+                    neighbor(s), thus forming a taxonomy that can be used to categorize activities by type.</p>
+                <p>Moreover, in Scholarly Ontology (SO) other entities can also be related to terms from the <em>ActivityTypes</em>
+                    Taxonomy
+                    (e.g. a <em>Method</em> that <em>isEmployedFor</em>, a <em>Tool</em>
+                    that <em>isUsedFor</em> or an <em>Actor</em> that <em>hasIntention</em>
+                    a specific type of activity respectively). This way, <em>ActivityTypes</em> can function as a
+                    "semantic
+                    bridge", higlighting
+                    various contextual aspects of SO entites.</p>
+                <a class="btn btn-outline-secondary" href="{{url_for('main.ActivityTypes') }}" role="button">Learn More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/RS_Rationale.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>RESEARCH SPOTLIGHT</h2>
+                <img src="static/images/RS_brand.svg" width="70" height="70" alt="" class="d-lg-inline">
+                <p class="lead">Research Spotlight (RS), is a system that extracts information from research articles,
+                    enriches it with relevant
+                    information from other web sources, organizes it according to the Scholarly Ontology, and
+                    republishes it in
+                    the form of linked data. Existing information is leveraged by accessing SPARQL endpoints, scraping
+                    Web
+                    pages or
+                    through APIs. Harvested information is further used as background knowledge for training
+                    classifiers or for
+                    extracting
+                    information from semi-structured or unstructured texts.</p>
+                <p>Knowledge bases created using RS can support researchers in finding details of relevant work without
+                    reading the
+                    articles; discovering uses of resources, processes and methods in particular contexts; promoting
+                    communities of
+                    interests; formulating future directions and project proposals. Besides, funders and research
+                    councils can
+                    get a
+                    “bird’s eye view” of scholarly work useful for planning and evaluation.</p>
+                <a class="btn btn-outline-secondary" href="{{url_for('main.ResearchSpotlight') }}" role="button">Learn
+                    More</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

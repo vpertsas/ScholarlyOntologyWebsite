@@ -1,0 +1,280 @@
+body {
+  background: #fafafa;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.bg-steel {
+  background-color: #5f788a;
+}
+
+
+*:focus {
+    outline: 0 !important;
+}
+
+.bt-steel {
+    background-color: #5f788a;
+    outline:none !important;
+    /* color: #5f788a  */
+    color:  #ffffff
+    !important
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: #444444;
+}
+
+
+
+a.article-title:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
+
+body {
+    background: #fafafa;
+    font-family: 'Nunito', sans-serif;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.blurb h2 {
+   color: rgb(63, 58, 59);
+   font-weight: 100;
+   font-size: 2rem;
+}
+
+.refLink {
+   color: #473e41;
+    font-weight: 200;
+    font-size: 1.125rem;
+}
+.blurb p {
+    color: #473e41;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+    padding: none;
+    margin:none;
+}
+
+.btn {
+    color: rgb(63, 58, 59);
+    font-family: "Nunito", sans-serif;
+}
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color: rgb(105, 103, 103);
+}
+
+#mainNavbar .nav-link.scrolled {
+    color: rgb(243, 239, 239);
+}
+
+#mainNavbar .nav-link:hover {
+    font-weight: 500;
+    /* text-emphasis: none;
+    font-size: 1.5rem; */
+}
+
+#mainNavbar .navbar-brand {
+    color: rgb(48, 47, 47);
+    font-size: 1.5rem;
+}
+
+#headingGroup span {
+    color: rgb(54, 53, 53);
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+/* navbar original -full width- */
+.navbar-nav .dropdown-menu {
+    display: block;
+    max-height: 0px;
+    overflow: hidden;
+    border: none;
+    transition: max-height 0.5s;
+    padding: 0;
+    margin: 0;
+    background: #333333;
+    opacity: 0.80;
+}
+.navbar-nav .dropdown-menu.show{
+    max-height: 500px;
+    background: transparent;
+    background: #fafafafa;
+    opacity: 0.80;
+}
+.navbar-nav .dropdown-menu.show .dropdown-item {
+    color: #333333;
+    font-family: "Nunito", sans-serif;
+    font-weight: 100;
+    font-size: 1.3rem;
+}
+.navbar-nav .dropdown-menu.show .dropdown-item:hover{
+    background: transparent;
+    font-weight: 400;
+}
+
+/* navbar scrolled -fullwidth */
+.navbar.scrolled {
+    background: #333333;
+    transition: background 500ms;  
+    opacity: 0.8;   
+}
+.navbar.scrolled .nav-link {
+    color: #ffffff;
+}
+.navbar.scrolled .dropdown-menu.show {
+    background: black;
+}
+.navbar.scrolled .dropdown-menu.show .dropdown-item {
+    color: #fafafafa;
+    font-family: "Nunito", sans-serif;
+    font-weight: 100;
+    font-size: 1.3rem;
+}
+.navbar-nav .dropdown-menu.show .dropdown-item:hover{
+    background: transparent;
+    font-weight: 400;
+}
+
+/* navbar squized: original and scrolled */
+@media (max-width: 768px){
+    .navbar{
+        background: #333333;
+        transition: background 500ms;  
+        opacity: 0.80; 
+    }
+    .navbar .dropdown-menu.show {
+    background:#333333;
+    /*     opacity: 0.8; */
+    }   
+    .navbar.scrolled .dropdown-menu.show {
+    background:#333333;
+    /*     opacity: 0.8; */
+    }   
+    .navbar .dropdown-menu.show .dropdown-item {
+    color: #fafafafa;
+    font-family: "Nunito", sans-serif;
+    font-weight: 100;
+    font-size: 1.3rem;
+    }
+    #mainNavbar .nav-link {
+        color: #ffffff
+    }
+}
+
+/* body squized */
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 1.8rem;
+    }
+    .blurb p {
+        font-size: 1rem;
+    }
+
+}
+
+.come-in {
+  transform: translateY(150px);
+  animation: come-in 0.8s ease forwards;
+}
+.come-in:nth-child(odd) {
+  animation-duration: 0.6s; /* So they look staggered */
+}
+
+@keyframes come-in {
+  to { transform: translateY(0); }
+}

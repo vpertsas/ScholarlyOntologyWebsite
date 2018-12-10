@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/SO_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+{% block content %}
+<div class="row align-items-center content">
+    <div class="col-md-12 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>Material for download:</h2><br>
+                <p><a class="refLink" href="/static/downloads/SO_ActivityTypes_v.1.3.owl">RDF serialization of Scholarly Ontology</a><br>
+                    <a class="refLink" href="/static/downloads/SO_ActivityTypes_v.1.3.owl">RDF serialization of ActivityTypes Taxonomy</a><br>
+                    <a class="refLink" href="/static/downloads/SO_ActivityTypes_v.1.3.owl">RDF serialization of Scholarly Ontology with ActivityTypes Taxonomy</a><br>
+                    <a class="refLink" href="/static/downloads/Standoff annotations for ACT and follows.zip">Dataset with humman annotations for research activities and their sequential relations</a><br>
+                    <a class="refLink" href="/static/downloads/ACT-SVM-sgda100ep0.001al2-t_h_hh(tag_dep)t_h_hh(24binRS)-30.sav">Classifier for Activity extraction</a><br>
+                    <a class="refLink" href="/static/downloads/REL-SVM-(POS-DEP)AVG-11bin.sav">Classifier for sequential relation extraction</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock content %}

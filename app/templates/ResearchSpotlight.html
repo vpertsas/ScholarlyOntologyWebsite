@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/RS_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+{% block content %}
+
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/RS_Architecture.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>RESEARCH SPOTLIGHT</h2>
+                <p class="lead">
+                    Research Spotlight (RS) provides an automated workflow that allows for the population of
+                        Scholarly Ontology's core entities and relations. To do so, RS provides distance supervision techniques,
+                        allowing for easy training of machine learning models, interconnects with various APIs to harvest (linked) data and
+                        information
+                        from the web, and uses pretrained ML models along with lexico/semantic rules in order to extract information from
+                        text in research articles,
+                        associate it with information from article's metadata and other digital repositories, and publish the infered
+                        knowledge as linked data.
+                        Simply put, Research Spotlight allows for the transformation of text from a research article into queriable knowledge
+                        graphs
+                        based on the semantics provided by the Scholarly Ontology.</p>
+                        <p>RS employs a modular architecture
+                        that allows for flexible expansion and upgrade of its various components.
+                        It is writen in Python and makes use of various libraries such as
+                        <a class="refLink" href="https://spacy.io/">SpaCy</a> for parsing and syntactic analysis of text,
+                        <a class="refLink" href="https://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> for
+                        parsing the html/xml structure of web pages and <a class="refLink" href="http://scikit-learn.org/stable/">
+                            scikit-learn</a>
+                        for implementing advanced machine learning methodologies in order to extract entities
+                        and relations from text.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/LayeredApproach.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>LAYERED APPROACH</h2>
+                <p class="lead">In order to transform text in to queriable knowledge graphs,
+                    Research Spotlight (RS) follows a layered approach. The input comprises 
+                    published research articles retrieved from repositories or web pages in the preferred
+                    html/xml format. The format is exploited in extracting the metadata of an article, such as authors’ information,
+                    references and their mentions in text, legends of figures, tables etc.. Entities, such as <em>Activities, 
+                        Methods, Goals,
+                    Propositions</em>, etc., are extracted from the text of the article. These are associated in the relation extraction step,
+                    through various relations, e.g. <em>follows</em>, <em>hasPart</em>, <em>hasObjective</em>, <em>resultsIn</em>, 
+                    <em>hasParticipant</em>, <em>hasTopic</em>, <em>hasAffiliation</em>,
+                    etc.. Encoded as RDF triples, these are published as linked data, using additional “meta properties”, such as
+                    <em>owl:sameAs</em>, <em>owl:equivalentProperty</em>, <em>rdfs:Label</em>, <em>skos:altLabel</em>, 
+                    where appropriate.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/Preprocessing.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>PREPROCESSING</h2>
+                <p class="lead">In Preprocessing, information is retrieved from sources such as DBpedia in order to
+                build lists of named entities through the <em>NE List Creation</em> module. Specific queries
+                using these entities are then submitted to the sources via the<em>API Querying</em> module.
+                Retrieved articles are processed by the <em>Text Cleaning</em> module and the raw text at the
+                output is added to a training corpus through the <em>Automatic Annotation</em> module that uses
+                the entries of <em>NE List</em> to spot named entities in the text. The annotated texts are used to
+                train a classifier to recognize the desired type of named entities.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/MainProcessing.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>MAIN PROCESSING</h2>
+                <p class="lead">Main Processing begins with harvesting research articles from Web sources, either
+                using their APIs or by scraping publication web sites. The articles are scanned for
+                metadata which are mapped to SO instances according to a set of rules. In addition,
+                specific html/xml tags inside the articles indicating static/images, tables and references are
+                extracted and associated with appropriate entities according to SO, while the rest of the
+                unstructured, “raw” text is cleaned and segmented into sentences by the <em>Text Cleaning
+                & Segmentation</em> module. The unstructured, “raw” text of the article is then
+                input into the <em>Named Entity Recognition</em> module, where named entities of specific types
+                are recognized. The segmented text is also inserted into a dependency parser using the
+                <em>Syntactic Analysis</em> module. The output consists of annotated text -in the form of dependency
+                trees based on the internal syntax of each sentence- which is further processed
+                by the <em>Non-Named Entities Extraction</em> module, so that text segments that contain other
+                entities (such as Activities, Goals or Propositions) can be extracted. The output of the above 
+                steps (named entities, non-named entities and metadata) is fed into
+                the <em>Relation Extraction</em> module that uses four kinds of rules: (i) syntactic
+                patterns based on outputs of the dependency parser; (ii) surface form of words and POS
+                tagging; (iii) semantic rules derived from Scholarly Ontology; (iv) proximity constraints capturing
+                structural idiosyncrasies of texts. Finally, based on the information extracted in the previous
+                steps, URIs for the SO namespace are generated, and linked -when possible- to
+                other strong URIs (such as the DBpedia entities stored in the named entities lists) in
+                order to be published as linked data through a SPARQL endpoint.</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-334 -682 437 347" width="437" height="347">
+  <defs>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-30 16:01:27 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_7">
+        <path d="M -64 -459.75 L -132 -557.25 L -200 -459.75 Z" fill="white"/>
+        <path d="M -64 -459.75 L -132 -557.25 L -200 -459.75 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-161 -502.78516)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="7.326172" y="11">Activity</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="12.104492" y="25.392578">Types</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M -87 -681 L -18 -681 C -12.477153 -681 -8 -676.52285 -8 -671 L -8 -662.75 C -8 -657.22715 -12.477153 -652.75 -18 -652.75 L -87 -652.75 C -92.52285 -652.75 -97 -657.22715 -97 -662.75 L -97 -671 C -97 -676.52285 -92.52285 -681 -87 -681 Z" fill="white"/>
+        <path d="M -87 -681 L -18 -681 C -12.477153 -681 -8 -676.52285 -8 -671 L -8 -662.75 C -8 -657.22715 -12.477153 -652.75 -18 -652.75 L -87 -652.75 C -92.52285 -652.75 -97 -657.22715 -97 -662.75 L -97 -671 C -97 -676.52285 -92.52285 -681 -87 -681 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-92 -674.0713)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="28.493164" y="11">Tool</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <path d="M -323 -605.75 L -254 -605.75 C -248.47715 -605.75 -244 -601.27285 -244 -595.75 L -244 -587.5 C -244 -581.97715 -248.47715 -577.5 -254 -577.5 L -323 -577.5 C -328.52285 -577.5 -333 -581.97715 -333 -587.5 L -333 -595.75 C -333 -601.27285 -328.52285 -605.75 -323 -605.75 Z" fill="white"/>
+        <path d="M -323 -605.75 L -254 -605.75 C -248.47715 -605.75 -244 -601.27285 -244 -595.75 L -244 -587.5 C -244 -581.97715 -248.47715 -577.5 -254 -577.5 L -323 -577.5 C -328.52285 -577.5 -333 -581.97715 -333 -587.5 L -333 -595.75 C -333 -601.27285 -328.52285 -605.75 -323 -605.75 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-328 -598.8213)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="25.496094" y="11">Actor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M -254 -364.25 L -174.5 -364.25 C -168.97715 -364.25 -164.5 -359.77285 -164.5 -354.25 L -164.5 -346 C -164.5 -340.47715 -168.97715 -336 -174.5 -336 L -254 -336 C -259.52285 -336 -264 -340.47715 -264 -346 L -264 -354.25 C -264 -359.77285 -259.52285 -364.25 -254 -364.25 Z" fill="white"/>
+        <path d="M -254 -364.25 L -174.5 -364.25 C -168.97715 -364.25 -164.5 -359.77285 -164.5 -354.25 L -164.5 -346 C -164.5 -340.47715 -168.97715 -336 -174.5 -336 L -254 -336 C -259.52285 -336 -264 -340.47715 -264 -346 L -264 -354.25 C -264 -359.77285 -259.52285 -364.25 -254 -364.25 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-259 -357.3213)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="25.748047" y="11">Activity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 7 -427.25 L 92 -427.25 C 97.52285 -427.25 102 -422.77285 102 -417.25 L 102 -409 C 102 -403.47715 97.52285 -399 92 -399 L 7 -399 C 1.4771525 -399 -3 -403.47715 -3 -409 L -3 -417.25 C -3 -422.77285 1.4771525 -427.25 7 -427.25 Z" fill="white"/>
+        <path d="M 7 -427.25 L 92 -427.25 C 97.52285 -427.25 102 -422.77285 102 -417.25 L 102 -409 C 102 -403.47715 97.52285 -399 92 -399 L 7 -399 C 1.4771525 -399 -3 -403.47715 -3 -409 L -3 -417.25 C -3 -422.77285 1.4771525 -427.25 7 -427.25 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2 -420.3213)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="27.487305" y="11">Method</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="-68.73314" y1="-475.15085" x2="22.575047" y2="-427.25" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <line x1="-165.5527" y1="-526.3215" x2="-261.90677" y2="-577.5" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="-284.15722" y1="-577.5" x2="-221.50216" y2="-373.71285" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_28">
+        <line x1="-206.91436" y1="-364.25" x2="-161.88049" y2="-450.96417" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_29">
+        <line x1="-167.41904" y1="-361.31116" x2="-9.147636" y2="-399.11628" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="-106.21859" y1="-536.8994" x2="-58.337826" y2="-652.75" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="-92.21052" y1="-654.2131" x2="-239.35736" y2="-607.2944" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="-43.1298" y1="-643.5643" x2="43.82217" y2="-427.25" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_37">
+        <rect x="-218.65354" y="-415.76286" width="64" height="25" fill="#fafafa"/>
+        <text transform="translate(-213.65354 -410.45915)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">hasScope</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="-61.134335" y="-459.7949" width="91" height="25" fill="#fafafa"/>
+        <text transform="translate(-56.134335 -454.49117)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4863281" y="11">isEmployedFor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <rect x="-121.70614" y="-590.5621" width="65" height="25" fill="#fafafa"/>
+        <text transform="translate(-116.70614 -585.2584)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".16015625" y="11">isUsedFor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <rect x="-246.88582" y="-561.8379" width="76" height="25" fill="#fafafa"/>
+        <text transform="translate(-241.88582 -556.5342)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3076172" y="11">hasIntention</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <rect x="-203.62464" y="-640.9131" width="61" height="25" fill="#fafafa"/>
+        <text transform="translate(-198.62464 -635.6094)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15820312" y="11">isUsedBy</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <rect x="-31.37947" y="-544.7369" width="66" height="25" fill="#fafafa"/>
+        <text transform="translate(-26.37947 -539.4332)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3232422" y="11">prescribes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <rect x="-107.33667" y="-394.7313" width="55" height="25" fill="#fafafa"/>
+        <text transform="translate(-102.33667 -389.4276)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15820312" y="11">employs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <rect x="-296.30656" y="-496.1625" width="82" height="25" fill="#fafafa"/>
+        <text transform="translate(-291.30656 -490.8588)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">participatesIn</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

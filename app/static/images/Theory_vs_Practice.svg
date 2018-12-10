@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 741 391" width="741" height="391">
+  <defs>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-30 16:00:50 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_114">
+        <line x1="9" y1="135" x2="668" y2="135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_50">
+        <rect x="171" y="27" width="72" height="36" fill="white"/>
+        <rect x="171" y="27" width="72" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(176 37.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="10.987305" y="11">Method</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <rect x="54" y="117" width="72" height="36" fill="#f3f3f3"/>
+        <rect x="54" y="117" width="72" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(59 127.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="1.6503906" y="11">MediaType</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <rect x="144" y="117" width="126" height="36" fill="#f3f3f3"/>
+        <rect x="144" y="117" width="126" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(149 120.60742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.3066406" y="11">InformationResource</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="44.99219" y="25.392578">Type</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <rect x="288" y="117" width="90" height="36" fill="#f3f3f3"/>
+        <rect x="288" y="117" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(293 127.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="7.990234" y="11">ActivityType</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72">
+        <rect x="216" y="234" width="72" height="36" fill="white"/>
+        <rect x="216" y="234" width="72" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(221 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="11.998047" y="11">Activity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_73">
+        <rect x="54" y="234" width="90" height="36" fill="white"/>
+        <rect x="54" y="234" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(59 237.60742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="9.985352" y="11">Information</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="14.321289" y="25.392578">Resource</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79">
+        <rect x="405" y="234" width="54" height="36" fill="white"/>
+        <rect x="405" y="234" width="54" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(410 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="10.993164" y="11">Tool</tspan>
+        </text>
+      </g>
+      <g id="Line_84">
+        <line x1="205.4716" y1="63" x2="206.51976" y2="107.1028" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_85">
+        <path d="M 171 54 L 99 54 L 97.63902 107.10325" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_86">
+        <path d="M 243 54 L 333 54 L 333 107.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_87">
+        <line x1="99" y1="234" x2="97.58269" y2="162.89803" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_88">
+        <path d="M 125.61328 234 L 126 216 L 207 216 L 206.53372 162.89962" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_165">
+        <path d="M 432.1355 234 L 432.27103 216 L 333 216 L 333 162.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_94">
+        <rect x="64.22867" y="182.80477" width="68" height="25" fill="#fafafa"/>
+        <text transform="translate(69.22867 188.10848)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32421875" y="11">hasFormat</tspan>
+        </text>
+      </g>
+      <g id="Graphic_95">
+        <rect x="178.81717" y="182.67895" width="56" height="25" fill="#fafafa"/>
+        <text transform="translate(183.81717 187.98266)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31835938" y="11">hasType</tspan>
+        </text>
+      </g>
+      <g id="Graphic_166">
+        <rect x="353.17877" y="203.5" width="65" height="25" fill="#fafafa"/>
+        <text transform="translate(358.17877 208.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".16015625" y="11">isUsedFor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_100">
+        <rect x="278.5" y="72.359375" width="91" height="25" fill="#fafafa"/>
+        <text transform="translate(283.5 77.66309)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4863281" y="11">isEmployedFor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_102">
+        <rect x="159.95167" y="70.69982" width="92" height="25" fill="#fafafa"/>
+        <text transform="translate(164.95167 76.00353)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3154297" y="11">prescribesType</tspan>
+        </text>
+      </g>
+      <g id="Line_123">
+        <path d="M 270 270 L 270 306 L 561 306 L 561 9 L 208.8733 9 L 208.30256 17.12434" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_124">
+        <rect x="376.1968" y="-3.5" width="55" height="25" fill="#fafafa"/>
+        <text transform="translate(381.1968 1.803711)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15820312" y="11">employs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_125">
+        <rect x="477" y="234" width="72" height="36" fill="white"/>
+        <rect x="477" y="234" width="72" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(482 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="16.996094" y="11">Actor</tspan>
+        </text>
+      </g>
+      <g id="Line_126">
+        <path d="M 495 234 L 495 198 L 357.4729 198 L 357.4729 162.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_127">
+        <rect x="408.1968" y="185.5" width="76" height="25" fill="#fafafa"/>
+        <text transform="translate(413.1968 190.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3076172" y="11">hasIntention</tspan>
+        </text>
+      </g>
+      <g id="Line_128">
+        <path d="M 513 270 L 513 288 L 280.5 288 L 280.41898 279.8995" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_131">
+        <line x1="216" y1="252" x2="153.9" y2="252" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_132">
+        <line x1="288" y1="252" x2="395.1" y2="252" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_135">
+        <rect x="316.1884" y="239.5" width="58" height="25" fill="#fafafa"/>
+        <text transform="translate(321.1884 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31933594" y="11">usesTool</tspan>
+        </text>
+      </g>
+      <g id="Graphic_136">
+        <rect x="343.60216" y="275.5" width="82" height="25" fill="#fafafa"/>
+        <text transform="translate(348.60216 280.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">participatesIn</tspan>
+        </text>
+      </g>
+      <g id="Line_141">
+        <path d="M 225.5 270 L 225 288 L 99 288 L 99 279.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_142">
+        <rect x="441" y="27" width="54" height="36" fill="white"/>
+        <rect x="441" y="27" width="54" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(446 37.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="9.326172" y="11">Goal</tspan>
+        </text>
+      </g>
+      <g id="Line_146">
+        <path d="M 540.1966 234 L 540 45 L 504.9 45" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_150">
+        <line x1="243" y1="36" x2="431.1" y2="36" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_152">
+        <rect x="298.02026" y="23.5" width="66" height="25" fill="#fafafa"/>
+        <text transform="translate(303.02026 28.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3173828" y="11">addresses</tspan>
+        </text>
+      </g>
+      <g id="Graphic_154">
+        <rect x="503" y="77.5" width="55" height="25" fill="#fafafa"/>
+        <text transform="translate(508 82.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15234375" y="11">hasGoal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_155">
+        <rect x="167.66516" y="239.5" width="36" height="25" fill="#fafafa"/>
+        <text transform="translate(172.66516 244.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32617188" y="11">uses</tspan>
+        </text>
+      </g>
+      <g id="Graphic_156">
+        <rect x="396" y="117" width="90" height="36" fill="#f3f3f3"/>
+        <rect x="396" y="117" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(401 120.60742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="25.993164" y="11">Topic</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="16.65625" y="25.392578">Keyword</tspan>
+        </text>
+      </g>
+      <g id="Line_157">
+        <path d="M 252 234 L 251.9824 216 L 315 216 L 316.2973 162.89705" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_137">
+        <rect x="129.30272" y="275.5" width="60" height="25" fill="#fafafa"/>
+        <text transform="translate(134.30272 280.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3173828" y="11">produces</tspan>
+        </text>
+      </g>
+      <g id="Line_158">
+        <path d="M 243 45 L 432.66143 45 L 432.31356 107.10016" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_160">
+        <rect x="406.9372" y="72.529054" width="51" height="25" fill="#fafafa"/>
+        <text transform="translate(411.9372 77.832765)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15625" y="11">regards</tspan>
+        </text>
+      </g>
+      <g id="Line_161">
+        <path d="M 513 234 L 513 135 L 496.9 135" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_162">
+        <rect x="258.65303" y="203.5" width="64" height="25" fill="#fafafa"/>
+        <text transform="translate(263.65303 208.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">hasScope</tspan>
+        </text>
+      </g>
+      <g id="Graphic_163">
+        <rect x="468" y="162" width="70" height="25" fill="#fafafa"/>
+        <text transform="translate(473 167.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31640625" y="11">hasInterest</tspan>
+        </text>
+      </g>
+      <g id="Graphic_167">
+        <rect x="575" y="89" width="91" height="39" fill="#fafafa"/>
+        <text transform="translate(580 94.10742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="11">Methodological</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="25.392578">Level</tspan>
+        </text>
+      </g>
+      <g id="Graphic_168">
+        <rect x="9" y="27" width="72" height="36" fill="white"/>
+        <rect x="9" y="27" width="72" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(14 30.607422)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.321289" y="11">Research</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="6.9853516" y="25.392578">Question</tspan>
+        </text>
+      </g>
+      <g id="Line_170">
+        <path d="M 243 270 L 243 306 L 37.5 306 L 36.77876 72.89995" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_172">
+        <rect x="56.605966" y="293.5" width="84" height="25" fill="#fafafa"/>
+        <text transform="translate(61.605966 298.8037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".20898438" y="11">isTriggeredBy</tspan>
+        </text>
+      </g>
+      <g id="Line_175">
+        <line x1="90.9" y1="36" x2="171" y2="36" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_176">
+        <rect x="106.02344" y="23.5" width="41" height="25" fill="#fafafa"/>
+        <text transform="translate(111.02344 28.80371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4941406" y="11">treats</tspan>
+        </text>
+      </g>
+      <g id="Graphic_177">
+        <rect x="570" y="144" width="50" height="39" fill="#fafafa"/>
+        <text transform="translate(575 149.10742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="11">Factual</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="0" y="25.392578">Level</tspan>
+        </text>
+      </g>
+      <g id="Graphic_101">
+        <rect x="46.190044" y="73.10329" width="104" height="25" fill="#fafafa"/>
+        <text transform="translate(51.190044 78.407005)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32128906" y="11">prescribesFormat</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

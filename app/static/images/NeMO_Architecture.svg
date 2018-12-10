@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="336 73 667 383" width="667" height="383">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="336" y="73">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <font-face font-family="Arial" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <filter id="Shadow_2" filterUnits="userSpaceOnUse" x="336" y="73">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.3030978"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".2" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <filter id="Shadow_3" filterUnits="userSpaceOnUse" x="336" y="73">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".25" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-11-01 09:00:28 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_65">
+        <g id="Group_64">
+          <g id="Graphic_44" filter="url(#Shadow)">
+            <rect x="339.5141" y="313.01484" width="182.55822" height="87" fill="white"/>
+            <rect x="339.5141" y="313.01484" width="182.55822" height="87" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(344.5141 347.7531)" fill="black">
+              <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="86.27911" y="14">                 </tspan>
+            </text>
+          </g>
+          <g id="Graphic_45">
+            <path d="M 445.06784 303.52734 L 336.5 409.48316 L 336.5 303.52734 Z" fill="#fafafa"/>
+          </g>
+          <g id="Line_41">
+            <line x1="435.58347" y1="313.50525" x2="345.98437" y2="399.50525" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_40">
+            <line x1="522.0723" y1="313.01484" x2="467.5" y2="400.22236" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_57" filter="url(#Shadow)">
+            <rect x="522.5" y="313.00525" width="244.7631" height="87" fill="white"/>
+            <rect x="522.5" y="313.00525" width="244.7631" height="87" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(527.5 347.74353)" fill="black">
+              <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x="117.38154" y="14">         </tspan>
+            </text>
+          </g>
+          <g id="Line_54">
+            <line x1="582.397" y1="313.84916" x2="527.82466" y2="400.84916" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_63">
+            <path d="M 543.1096 280.34916 L 585.4984 306.83665 L 492.70483 455.3374 L 450.316 428.84994 Z" fill="#fafafa"/>
+          </g>
+        </g>
+        <g id="Graphic_56">
+          <path d="M 834.4231 375.87803 L 727.1342 252.8248 L 769.1547 410.5818 Z" fill="#fafafa"/>
+        </g>
+        <g id="Line_52">
+          <line x1="742.0806" y1="312.40774" x2="765.3907" y2="400.282" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_37">
+        <g id="Graphic_26" filter="url(#Shadow)">
+          <rect x="799" y="279" width="181.25" height="87" fill="white"/>
+          <rect x="799" y="279" width="181.25" height="87" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_27">
+          <path d="M 832.5 378.875 L 796.5 220.5 L 760.5 378.875 Z" fill="#fafafa"/>
+        </g>
+        <g id="Graphic_29">
+          <path d="M 983.1781 389.15503 L 866.6479 255.84497 L 1002.4617 279.7926 Z" fill="#fafafa"/>
+        </g>
+        <g id="Line_30">
+          <line x1="886" y1="279" x2="964" y2="366" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_31">
+          <line x1="810" y1="279" x2="830.5" y2="365.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_66">
+        <g id="Graphic_10" filter="url(#Shadow_2)">
+          <path d="M 778.6275 150.31033 L 700.3174 74.1512 L 622.0073 150.31033 Z" fill="#999"/>
+          <path d="M 778.6275 150.31033 L 700.3174 74.1512 L 622.0073 150.31033 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_11">
+          <text transform="translate(649.8174 116.41775)" fill="black">
+            <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="10.946289" y="11">Top Concepts</tspan>
+            <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x=".15332031" y="25.392578">Reasoning Frame</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_12" filter="url(#Shadow_3)">
+        <rect x="524.9277" y="168.04078" width="350.77944" height="89.87426" fill="#ccc"/>
+        <rect x="524.9277" y="168.04078" width="350.77944" height="89.87426" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1"/>
+        <text transform="translate(529.9277 194.9779)" fill="black"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 625.58114 160 L 517 265.95582 L 517 160 Z" fill="#fafafa"/>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 890.6488 273.4729 L 775.3222 160.4729 L 892.5 162.4263 Z" fill="#fafafa"/>
+      </g>
+      <g id="Line_19">
+        <line x1="617.0719" y1="168.4756" x2="524.7917" y2="258.34987" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_22">
+        <line x1="783.4269" y1="168.5" x2="875.7071" y2="257.91504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(583.4365 201.58033)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="74.03975" y="11">Inter-Discipline </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="29.353224" y="25.392578">Concept / Property Hierarchies</tspan>
+        </text>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(832.1903 290.21484)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="0" y="11">             </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="5" y="25.392578">Discipline</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="10" y="39.785156">Specific</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="15" y="54.177734">Extensions</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <text transform="translate(388 336.41113)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="35" y="11">Discipline</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="25" y="25.392578">Specific</tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="10" y="39.785156">Extensions</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <text transform="translate(627.0073 343.60742)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="0" y="11">   </tspan>
+          <tspan font-family="Arial" font-size="12" font-weight="700" fill="black" x="0" y="25.392578">……………</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

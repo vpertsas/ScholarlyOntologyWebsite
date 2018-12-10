@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 631 496" width="631" height="496">
+  <defs>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="14" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="16" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="518.5547" cap-height="716.3086" ascent="905.2734" descent="-211.91406" font-weight="400">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-10-29 09:25:22 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" fill-opacity="1" stroke="none" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_49">
+        <ellipse cx="459" cy="135" rx="171.000273241224" ry="135.000215716756" fill="white"/>
+        <path d="M 579.9151 39.54069 C 646.6951 92.26143 646.6951 177.73857 579.9151 230.4593 C 513.1355 283.18032 404.8645 283.18032 338.08487 230.4593 C 271.30493 177.73857 271.30493 92.26143 338.08487 39.54069 C 404.8645 -13.18032 513.1355 -13.18032 579.9151 39.54069" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_48">
+        <path d="M 338.007 40.858713 C 415.33114 95.33681 415.33114 183.66319 338.007 238.1413 C 260.68324 292.61966 135.31676 292.61966 57.99301 238.1413 C -19.331136 183.66319 -19.331136 95.33681 57.99301 40.858713 C 135.31676 -13.619664 260.68324 -13.619664 338.007 40.858713" fill="white"/>
+        <path d="M 338.007 40.858713 C 415.33114 95.33681 415.33114 183.66319 338.007 238.1413 C 260.68324 292.61966 135.31676 292.61966 57.99301 238.1413 C -19.331136 183.66319 -19.331136 95.33681 57.99301 40.858713 C 135.31676 -13.619664 260.68324 -13.619664 338.007 40.858713" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_47">
+        <path d="M 537.7384 264.5407 C 660.7541 317.26143 660.7541 402.73857 537.7384 455.4593 C 414.72333 508.1803 215.27667 508.1803 92.26161 455.4593 C -30.75408 402.73857 -30.75408 317.26143 92.26161 264.5407 C 215.27667 211.81968 414.72333 211.81968 537.7384 264.5407" fill="white"/>
+        <path d="M 537.7384 264.5407 C 660.7541 317.26143 660.7541 402.73857 537.7384 455.4593 C 414.72333 508.1803 215.27667 508.1803 92.26161 455.4593 C -30.75408 402.73857 -30.75408 317.26143 92.26161 264.5407 C 215.27667 211.81968 414.72333 211.81968 537.7384 264.5407" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_46">
+        <path d="M 463.5 150 L 526.5 150 C 533.952 150 540 156.048 540 163.5 C 540 170.952 533.952 177 526.5 177 L 463.5 177 C 456.048 177 450 170.952 450 163.5 C 450 156.048 456.048 150 463.5 150 Z" fill="white"/>
+        <path d="M 463.5 150 L 526.5 150 C 533.952 150 540 156.048 540 163.5 C 540 170.952 533.952 177 526.5 177 L 463.5 177 C 456.048 177 450 170.952 450 163.5 C 450 156.048 456.048 150 463.5 150 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(464 156.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="10.987305" y="11">Method</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <path d="M 62.1 171 L 99.9 171 C 104.3712 171 108 177.048 108 184.5 C 108 191.952 104.3712 198 99.9 198 L 62.1 198 C 57.6288 198 54 191.952 54 184.5 C 54 177.048 57.6288 171 62.1 171 Z" fill="white"/>
+        <path d="M 62.1 171 L 99.9 171 C 104.3712 171 108 177.048 108 184.5 C 108 191.952 104.3712 198 99.9 198 L 62.1 198 C 57.6288 198 54 191.952 54 184.5 C 54 177.048 57.6288 171 62.1 171 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(64.4 177.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="2.5960938" y="11">Actor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <path d="M 198.45 108 L 242.55 108 C 247.7664 108 252 114.048 252 121.5 C 252 128.952 247.7664 135 242.55 135 L 198.45 135 C 193.2336 135 189 128.952 189 121.5 C 189 114.048 193.2336 108 198.45 108 Z" fill="white"/>
+        <path d="M 198.45 108 L 242.55 108 C 247.7664 108 252 114.048 252 121.5 C 252 128.952 247.7664 135 242.55 135 L 198.45 135 C 193.2336 135 189 128.952 189 121.5 C 189 114.048 193.2336 108 198.45 108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(200.3 114.30371)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="7.526172" y="11">Goal</tspan>
+        </text>
+      </g>
+      <g id="Line_43">
+        <line x1="237.55027" y1="135" x2="285.0248" y2="196.4519" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_42">
+        <line x1="106.89066" y1="191.32035" x2="242.96073" y2="208.17004" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_41">
+        <line x1="330.42706" y1="240.42327" x2="328.5" y2="340.17916" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_40">
+        <line x1="273.57512" y1="240.42327" x2="236.89486" y2="279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_39">
+        <line x1="374.00654" y1="208.269" x2="456.50686" y2="175.04794" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_38">
+        <line x1="249.35753" y1="306" x2="308.1875" y2="340.79635" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_37">
+        <line x1="250.70577" y1="128.32035" x2="451.4556" y2="157.39896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <line x1="104.09588" y1="172.95206" x2="193.5548" y2="133.04794" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 287.55 340.17916 L 369.45 340.17916 C 379.1376 340.17916 387 346.22716 387 353.67916 C 387 361.13116 379.1376 367.17916 369.45 367.17916 L 287.55 367.17916 C 277.8624 367.17916 270 361.13116 270 353.67916 C 270 346.22716 277.8624 340.17916 287.55 340.17916 Z" fill="white"/>
+        <path d="M 287.55 340.17916 L 369.45 340.17916 C 379.1376 340.17916 387 346.22716 387 353.67916 C 387 361.13116 379.1376 367.17916 369.45 367.17916 L 287.55 367.17916 C 277.8624 367.17916 270 361.13116 270 353.67916 C 270 346.22716 277.8624 340.17916 287.55 340.17916 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(286.7 346.48287)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="7.449414" y="11">Content Item</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <path d="M 193.5 279 L 256.5 279 C 263.952 279 270 285.048 270 292.5 C 270 299.952 263.952 306 256.5 306 L 193.5 306 C 186.048 306 180 299.952 180 292.5 C 180 285.048 186.048 279 193.5 279 Z" fill="white"/>
+        <path d="M 193.5 279 L 256.5 279 C 263.952 279 270 285.048 270 292.5 C 270 299.952 263.952 306 256.5 306 L 193.5 306 C 186.048 306 180 299.952 180 292.5 C 180 285.048 186.048 279 193.5 279 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(194 285.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="5.989258" y="11">Assertion</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 261.2123 195.42327 L 355.7123 195.42327 C 366.8903 195.42327 375.9623 205.50327 375.9623 217.92327 C 375.9623 230.34327 366.8903 240.42327 355.7123 240.42327 L 261.2123 240.42327 C 250.0343 240.42327 240.9623 230.34327 240.9623 217.92327 C 240.9623 205.50327 250.0343 195.42327 261.2123 195.42327 Z" fill="white"/>
+        <path d="M 261.2123 195.42327 L 355.7123 195.42327 C 366.8903 195.42327 375.9623 205.50327 375.9623 217.92327 C 375.9623 230.34327 366.8903 240.42327 355.7123 240.42327 L 261.2123 240.42327 C 250.0343 240.42327 240.9623 230.34327 240.9623 217.92327 C 240.9623 205.50327 250.0343 195.42327 261.2123 195.42327 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(259.4623 209.69426)" fill="black">
+          <tspan font-family="Arial" font-size="14" font-weight="700" fill="black" x="23.713867" y="13">Activity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(95 347.7383)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="700" fill="black" x=".0625" y="14">What?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(500 95.73828)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="700" fill="black" x=".2265625" y="14">How?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(40.5 121.23828)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="700" fill="black" x=".2890625" y="14">Who?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(204 56.73828)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="700" fill="black" x=".2265625" y="14">Why?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(41.5 74.73828)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x=".296875" y="14">Agency Perspective</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(410.5 50.73828)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x=".0703125" y="14">Procedure Perspective</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(59 392.7383)" fill="black">
+          <tspan font-family="Arial" font-size="16" font-weight="400" fill="black" x=".2421875" y="14">Resource Perspective</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <path d="M 346.2326 196.39176 C 346.2326 196.39176 362.2359 176.32914 355.36 168.42327 C 348.4841 160.5174 329.02593 160.83666 321.9623 168.4859 C 314.89867 176.13513 330.42706 195.42327 330.42706 195.42327" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_24">
+        <path d="M 344.9986 240.42327 C 344.9986 240.42327 329.50914 262.32378 338.2813 267.42327 C 347.0535 272.52276 368.05223 266.9942 375.9623 258.42327 C 383.87237 249.85232 366.202 237.16984 366.202 237.16984" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_23">
+        <line x1="482.4647" y1="177" x2="361.23426" y2="340.76026" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_22">
+        <path d="M 376.1453 367.17916 C 376.1453 367.17916 380.53635 381.38466 375.9623 387 C 371.38825 392.61534 364.4755 392.61534 360 387 C 355.5245 381.38466 360.1648 367.17916 360.1648 367.17916" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <rect x="131.02581" y="186.8861" width="82" height="25" fill="white"/>
+        <text transform="translate(136.02581 192.1898)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">participatesIn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="219.04365" y="150.32143" width="80" height="25" fill="white"/>
+        <text transform="translate(224.04365 155.62514)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".3154297" y="11">hasObjective</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <rect x="226.98843" y="247.47094" width="56" height="25" fill="white"/>
+        <text transform="translate(231.98843 252.77465)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32421875" y="11">resultsIn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="390.8466" y="177.91423" width="55" height="25" fill="white"/>
+        <text transform="translate(395.8466 183.21794)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15820312" y="11">employs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="285.76718" y="287.96533" width="87" height="25" fill="white"/>
+        <text transform="translate(290.76718 293.26904)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".47265625" y="11">documentedIn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <rect x="302.25155" y="127.12528" width="53" height="25" fill="white"/>
+        <text transform="translate(307.25155 132.42899)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15429688" y="11">address</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <rect x="330.3843" y="153.43093" width="44" height="25" fill="white"/>
+        <text transform="translate(335.3843 158.73464)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".32714844" y="11">partOf</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="341.3115" y="253.12257" width="47" height="25" fill="white"/>
+        <text transform="translate(346.3115 258.42628)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".16015625" y="11">follows</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="125.08067" y="138.8249" width="55" height="25" fill="white"/>
+        <text transform="translate(130.08067 144.1286)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15234375" y="11">hasGoal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="234.17228" y="310.8389" width="89" height="25" fill="white"/>
+        <text transform="translate(239.17228 316.1426)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".4765625" y="11">isSupportedBy</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="382.20517" y="238.47015" width="91" height="25" fill="white"/>
+        <text transform="translate(387.20517 243.77386)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".14355469" y="11">isReferencedIn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="336.49947" y="377.78935" width="55" height="25" fill="white"/>
+        <text transform="translate(341.49947 383.09307)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".15234375" y="11">contains</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 292.5 423 L 355.5 423 C 362.952 423 369 429.048 369 436.5 C 369 443.952 362.952 450 355.5 450 L 292.5 450 C 285.048 450 279 443.952 279 436.5 C 279 429.048 285.048 423 292.5 423 Z" fill="white"/>
+        <path d="M 292.5 423 L 355.5 423 C 362.952 423 369 429.048 369 436.5 C 369 443.952 362.952 450 355.5 450 L 292.5 450 C 285.048 450 279 443.952 279 436.5 C 279 429.048 285.048 423 292.5 423 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(293 429.3037)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x="16.993164" y="11">Topic</tspan>
+        </text>
+      </g>
+      <g id="Line_8">
+        <line x1="73.47881" y1="198" x2="280.4556" y2="430.39896" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <line x1="519.3575" y1="177" x2="367.69616" y2="430.70744" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_6">
+        <line x1="312.17025" y1="367.678" x2="308.375" y2="423.6172" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="159.4095" y="321.28414" width="70" height="25" fill="white"/>
+        <text transform="translate(164.4095 326.58785)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31640625" y="11">hasInterest</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="281.28174" y="383.01324" width="58" height="25" fill="white"/>
+        <text transform="translate(286.28174 388.31695)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31933594" y="11">hasTopic</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="410.4851" y="288.07783" width="70" height="25" fill="white"/>
+        <text transform="translate(415.4851 293.38154)" fill="black">
+          <tspan font-family="Arial" font-size="12" font-weight="400" fill="black" x=".31347656" y="11">hasSubject</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

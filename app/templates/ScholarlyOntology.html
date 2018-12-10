@@ -1,0 +1,146 @@
+{% extends "base.html" %}
+{% block nav_icon %}
+{{ super()}}
+<img src="static/images/SO_brand.svg" width="45" height="45" alt="" class="d-inline-block align-center">
+{% endblock nav_icon %}
+{% block content %}
+
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/SO_Overview_Rectangle.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-6 mb-md-0">
+                <h2>SCHOLARLY ONTOLOGY</h2>
+                <!-- <img src="static/images/SO_brand.svg" alt="" width="70" height="70" class="d-lg-inline"> -->
+                <p class="lead">The ontology evolves around the central notion of <strong><em>Activity</em></strong> (i.e. a biological experiment, an archeological excavation,
+                a medical survey, etc.), capturing its various perspectives: <strong><em>Resource</em></strong>, comprising concepts such as <em>ContentItem</em> (i.e.
+                bibliographic references, articles, figures, tables, equations, etc.), <em>Topic</em>, etc. that model what is produced, used or
+                documents an activity; <strong><em>Procedure</em></strong>, comprising the <em>Methods</em> (i.e. procedures) that describe how an activity is conducted;
+                and <strong><em>Agency</em></strong>, comprising concepts such as <em>Actors</em> or <em>Goals</em>, that model who is participating in the activities or why they
+                are conducted.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1 align-content-center">
+        <div class="row justify-content-center">
+            <img src="static/images/ActivityPerspective.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>ACTIVITY PERSPECTIVE</h2>
+                <!-- <img src="static/images/Taxonomy_brand.svg" width="70" height="70" alt="" class="d-lg-inline"> -->
+                <p class="lead">Activities are intentional acts carried out by instances of the
+                <em>Actor</em> class; they have duration, and occur at a specific time
+                and place. They are real processes, as opposed to plans, or
+                procedures for carrying out processes. <em>Projects</em> and <em>Courses</em>
+                are two kinds of activity of particular interest in the scholarly
+                domain that warrant specialized descriptions and are represented
+                as subclasses of <em>Activity</em>.</p> 
+                <p>Scholalry Ontology distinguishes three broad kinds of object
+                involvement in an activity: input, output and tool. These
+                are further specialized by the properties <em>produces</em>, <em>uses</em> and
+                <em>isDocumentedIn</em> regarding the involvement of information
+                resources and the properties <em>triggeredBy</em>, <em>hasObjective</em> and
+                <em>resultIn</em> regarding the involvement of assertions or their specializations.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/MethodPerspective.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>PROCEDURE PERSPECTIVE</h2>
+                <p class="lead">Like in business process modelling, we distinguish between
+                the procedure that prescribes how to perform a specific act
+                and the act itself. In SO procedures or ‘recipes’ are captured
+                by the <em>Method</em> class, while acts are captured
+                by the <em>Activity</em> class. A method <em>hasDescription</em> explaining
+                what it does, <em>isEmployedIn</em> an activity, <em>isEmployedBy</em> actors, <em>comesFrom</em> 
+                some discipline, may be <em>influencedBy</em> a school of thought,
+                be <em>referencedIn</em> bibliography (a content item), or <em>taughtIn</em>
+                some courses. A structured description of a method is enabled
+                by the <em>hasPart</em> property yielding a recursive analysis
+                into steps and the previous property establishing causal ordering
+                of steps.</p>
+                <p>A method may <em>prescribe</em> specific information resource types
+                for inputs and outputs, media types as formats and tools. Finally,
+                methods are designed to <em>address</em> specific goals and
+                <em>treat</em> -through their employment- specific research questions.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-1">
+        <div class="row justify-content-center">
+            <img src="static/images/ResourcePerspective.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>RESOURCE PERSPECTIVE</h2>
+                <p class="lead">Any conceptual object that has a concrete representation,
+                borne by man-made carriers, is considered as a unit of information,
+                independently of those carriers (paper, hard disk,
+                etc.) and is treated as a resource that can be characterized
+                by its topic, type, and format or be described by a set of
+                metadata. In addition, information resources can be used
+                as inputs or outputs of activities. <em>InformationResourceType</em>,
+                and <em>MediaType</em> constitute controlled vocabularies describing
+                the type and format of information resources and can be imported from authorities, 
+                such as the <a class="refLink" href= "http://www.loc.gov/marc/bibliographic/">Marc21</a> bibliographic standard and the Internet Assigned Numbers Authority
+                (<a class="refLink" href="http://www.iana.org/assignments/media-types/media-types.xhtml">IANA</a>). Instances of <em>InformationResource</em> can be
+                grouped in aggregations and modelled through the use of an
+                established data model, such as <a class="refLink" href= "http://www.openarchives.org/ore/1.0/datamodel">OAI-ORE</a>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-center content">
+    <div class="col-md-6 order-2 order-md-2">
+        <div class="row justify-content-center">
+            <img src="static/images/AgencyPerspective.svg" alt="" class="img-fluid">
+        </div>
+    </div>
+    <div class="col-md-6 text-center order-1 order-md-1">
+        <div class="row justify-content-center">
+            <div class="col-10 col-lg-9 blurb mb-5 mb-md-0">
+                <h2>AGENCY PERSPECTIVE</h2>
+                <p class="lead">The agency perspective captures the ‘who’ and ‘why’ aspects
+                of the domain by focusing on goals of actors and the
+                intentional context of other relationships. Existing ontologies
+                such as <a class="refLink" href="http://xmlns.com/foaf/spec/">FOAF</a> 
+                and <a class="refLink" href="http://rdfs.org/sioc/spec/">SiOC</a> can be reused in conjunction
+                with SO in order to capture the social and community
+                aspects of actors. This can be achieved by further specializing
+                the corresponding SO concepts: <em>Person</em>, <em>Group</em>,
+                <em>Project</em>, <em>Topic</em>, <em>ActorRole</em> and <em>InformationResource</em>.</p>
+                <p>Actors’ goals constitute the
+                <em>objectiveOf</em> activities and can be <em>addressedBy</em> instances of
+                <em>Method</em>. In addition, they can be further decomposed into
+                more refined goals or be dependent upon other goals as indicated
+                by the <em>comprises</em> and <em>dependsOn</em> properties respectively.
+                Thus the notion of goal captures the successive refinement
+                from high-level objectives down to narrower goals, as
+                well as the manifestation of chains of dependency among
+                goals.</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}
